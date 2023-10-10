@@ -1,4 +1,4 @@
-namespace BulkyWeb.Models
+namespace Movie.Models
 {
     public class ErrorViewModel
     {
